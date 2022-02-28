@@ -12,9 +12,9 @@ The purpose of this project is to point out the differences between campaings co
 
 This project has the main goal to introduce the student to learn Excel tools to perform a great Analysis of large dataset, identifing trends and providing recommendations that would improve the goals of the solicitor.
 In this exercize I came accros a few challenge points such as:
-*Reconizing data and place on the appropriate value in order to get the information needed.
-*insure the COUNTIF was place and displayed as in the instructions.
-*Pivot charts that provides the accurate visualization needed for each trend.
+* Reconizing data and place on the appropriate value in order to get the information needed.
+* Insure the COUNTIF was place and displayed as in the instructions.
+* Pivot charts that provides the accurate visualization needed for each trend.
 
 
 As requested by Louise the following analysis it will demonstrate insights and statistics results based on the Kickstarter data provided in order to help Louise develop the new Theater Campaign.
