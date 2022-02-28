@@ -23,12 +23,13 @@ In this exercize I came accros a few challenge points that were easily overcome 
 ![countif.PNG](https://github.com/abramscris/kickstarter-analysis/blob/main/countif.PNG)
 
 # Chart
-![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
+![Theater%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater%20Category%20Outcomes.png)
 
 # Results
 Iniciating the Kickstarter on the the analysis perception the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify what would be recommended in order to obtained success on the project.
 
-![Theater%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater%20Category%20Outcomes.png)
+![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
+
 - 
 As per the analysis perception the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify what would be recommended in order to obtained success on the project.
 
