@@ -10,7 +10,7 @@ The purpose of this project is to point out the differences between campaings co
 
 ## Analysis and Challenges
 
-This project has the main goal to introduce the student to learn Excel tools to perform a great Analysis of large datase, identifing trends and providing recommendations that would improve the goals of the solicitor.
+This project has the main goal to introduce the student to learn Excel tools to perform a great Analysis of large dataset, identifing trends and providing recommendations that would improve the goals of the solicitor.
 In this exercize I came accros a few challenge points such as:
 *Reconizing data and place on the appropriate value in order to get the information needed.
 *insure the COUNTIF was place and displayed as in the instructions.
