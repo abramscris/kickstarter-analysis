@@ -1,3 +1,4 @@
 # kickstarter-analysis
-Analysis Kickstarter
-[Kickstarter Analysis readme.docx](https://github.com/abramscris/kickstarter-analysis/files/8150107/Kickstarter.Analysis.readme.docx)
+### An Analysis of Kickstarter Campaigns
+As requested by Louise the following analysis it will demonstrate insights and statistics results based on the Kickstarter data provided in order to help Louise develop the new Theater Campaign.
+![](images/Parent%20Category%20Outcomes.png
