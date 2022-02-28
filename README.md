@@ -26,12 +26,12 @@ In this exercize I came accros a few challenge points that were easily overcome 
 ![Theater%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater%20Category%20Outcomes.png)
 
 # Results
-Iniciating the Kickstarter on the the analysis perception the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify what would be recommended in order to obtained success on the project.
+Iniciating the Kickstarter the analysis perception over the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify what would be recommended in order to obtained success on the project.
 
 ![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 
-- 
-As per the analysis perception the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify what would be recommended in order to obtained success on the project.
+Diving in a little further we can determine that between US and Great Britain's the Theater category is the most successful with an amount of  73% of success on US and 58% success on GB compared to the failed and canceled categorys.
+
 
 ![Launch%20success%20Theater.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Launch%20success%20Theater.png)
 -
