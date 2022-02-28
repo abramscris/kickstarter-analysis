@@ -11,15 +11,24 @@ The purpose of this project is to point out the differences between campaings co
 ## Analysis and Challenges
 
 This project has the main goal to introduce the student to learn Excel tools to perform a great Analysis of large dataset, identifing trends and providing recommendations that would improve the goals of the solicitor.
-In this exercize I came accros a few challenge points such as:
-* Reconizing data and place on the appropriate value in order to get the information needed.
+
+In this exercize I came accros a few challenge points that were easily overcome after concentration and redoing until get the results expected, some of the challenges were:
+* Reconizing data and placed on the appropriate value in order to get the information needed.
 * Insure the COUNTIF was place and displayed as in the instructions.
 * Pivot charts that provides the accurate visualization needed for each trend.
+#Pivot table
+![Pivottable.JPG](https://github.com/abramscris/kickstarter-analysis/blob/main/Pivottable.JPG)
+
+#COUNTIF
+![countif.PNG](https://github.com/abramscris/kickstarter-analysis/blob/main/countif.PNG)
+
+#Chart
+![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 
 
 As requested by Louise the following analysis it will demonstrate insights and statistics results based on the Kickstarter data provided in order to help Louise develop the new Theater Campaign.
 
-![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
+
 
 ![Theater%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater%20Category%20Outcomes.png)
 - 
