@@ -2,6 +2,21 @@
 
 ## An Analysis of Kickstarter Campaigns
 
+## Overview of Project
+This project is based on the campaigns runned by Kickstarter platform crowfunding from the years of 2009 to 2017.The direction of this project is mainly analysis trends on the Theater projects focused on plays.
+
+### Purpose
+The purpose of this project is to point out the differences between campaings concentrating in plays, using the launch data dates and their funding goals.
+
+## Analysis and Challenges
+
+This project has the main goal to introduce the student to learn Excel tools to perform a great Analysis of large datase, identifing trends and providing recommendations that would improve the goals of the solicitor.
+In this exercize I came accros a few challenge points such as:
+*Reconizing data and place on the appropriate value in order to get the information needed.
+*insure the COUNTIF was place and displayed as in the instructions.
+*Pivot charts that provides the accurate visualization needed for each trend.
+
+
 As requested by Louise the following analysis it will demonstrate insights and statistics results based on the Kickstarter data provided in order to help Louise develop the new Theater Campaign.
 
 ![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
