@@ -14,21 +14,19 @@ This project has the main goal to introduce the student to learn Excel tools to 
 
 In this exercize I came accros a few challenge points that were easily overcome after concentration and redoing until get the results expected, some of the challenges were:
 * Reconizing data and placed on the appropriate value in order to get the information needed.
-* Insure the COUNTIF was place and displayed as in the instructions.
+* Insure the COUNTIF was placed and displayed as instructed.
 * Pivot charts that provides the accurate visualization needed for each trend.
-#Pivot table
+# Pivot table
 ![Pivottable.JPG](https://github.com/abramscris/kickstarter-analysis/blob/main/Pivottable.JPG)
 
-#COUNTIF
+# COUNTIF
 ![countif.PNG](https://github.com/abramscris/kickstarter-analysis/blob/main/countif.PNG)
 
-#Chart
+# Chart
 ![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 
-
-As requested by Louise the following analysis it will demonstrate insights and statistics results based on the Kickstarter data provided in order to help Louise develop the new Theater Campaign.
-
-
+# Results
+Iniciating the Kickstarter on the the analysis perception the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify what would be recommended in order to obtained success on the project.
 
 ![Theater%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater%20Category%20Outcomes.png)
 - 
