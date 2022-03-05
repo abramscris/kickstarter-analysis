@@ -29,7 +29,7 @@ In this exercise I came across a few challenge points that were easily overcome 
 
 ### Results
 
-Initiating the Kickstarter the perception over the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify that would be recommended in order to obtained success on the project, initiate a campaign during the months of May, June or July considering that May success rates were 111 when compared to the lower months of October, November and December. The highest success was in October with 65 successful campaigns. 
+Initiating the Kickstarter the perception over the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify that would be recommended in order to obtained success on the project, initiate a campaign during the months of May, June or July considering that May success rates were 111 when compared to the lower months of October, November and December the best rate success was in October with 65 successful campaigns. 
 
 ### Theater Outcomes by Launch Date
 
