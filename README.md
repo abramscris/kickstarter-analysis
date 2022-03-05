@@ -3,19 +3,21 @@
 ## An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-This project is based on the campaigns runned by Kickstarter platform crowfunding from the years of 2009 to 2017.The direction of this project is mainly analysis trends on the Theater projects focused on plays.
+This project is based on the campaigns completed by Kickstarter platform crowdfunding from the years of 2009 to 2017.The direction of this project is mainly analyzed trends on the Theater projects focused on plays.
 
 ### Purpose
-The purpose of this project is to point out the differences between campaings concentrating in plays, using the launch data dates and their funding goals.
+The purpose of this project is to point out the differences between campaigns concentrating in plays, using the launch data dates and their funding goals. And advise on possible future campaigns goals.
 
 ## Analysis and Challenges
 
-This project has the main goal to introduce the student to learn Excel tools to perform a great Analysis of large dataset, identifing trends and providing recommendations that would improve the goals of the solicitor.
+This project has the main goal to introduce the student to learn Excel tools to perform a great Analysis of large database, identifying trends and providing recommendations that would improve the goals of the solicitor. As we have a large scale of data, I filtered the data trying to get the most specific results as requested.
 
-In this exercize I came accros a few challenge points that were easily overcome after concentration and redoing until get the results expected, some of the challenges were:
-* Reconizing data and placed on the appropriate value in order to get the information needed.
+In this exercise I came across a few challenge points that were easily overcome after concentration and redoing until get the results expected, some of the challenges were:
+
+* Recognizing data and placed on the appropriate value in order to get the information needed.
 * Insure the COUNTIF was placed and displayed as instructed.
 * Pivot charts that provides the accurate visualization needed for each trend.
+
 # Pivot table
 ![Pivottable.JPG](https://github.com/abramscris/kickstarter-analysis/blob/main/Pivottable.JPG)
 
@@ -26,7 +28,7 @@ In this exercize I came accros a few challenge points that were easily overcome 
 ![Theater%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater%20Category%20Outcomes.png)
 
 # Results
-Iniciating the Kickstarter the analysis perception over the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify what would be recommended in order to obtained success on the project.
+Initiating the Kickstarter the analysis perception over the Theater category has the better success rates compare to other category’s, reaffirming that Louise interest on the Theater category has potential. Furthermore, we can identify that would be recommended in order to obtained success on the project, initiate a campaign during the months of May, June or July considering that May success rates were 111 when compared to the lower months of October, November and December. The highest success was in October with 65 successful campaigns. 
 
 ![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 
