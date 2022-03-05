@@ -43,42 +43,16 @@ On this perspective of data we have a different approach of Outcomes based on go
 
 ![Outcomes_vs_Goals.png.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
+# Possibilities Tables or Graphs for analysis
 
+Diving in a little further we could develop a Pivot Table based on Outcomes concentrating the Country’s US and GB once Louise wants to have more information on those.
+We can extend this analysis making comparation on the Outcomes per month and concluding from this chart we can conclude that between United States and Great Britain’s the theater market had a total of 783 successful campaigns. Maintaining the trend of May/June and July having the highest success rate. Also, when comparing to each other US had a 80% failed average when GB only had a 10% average failed.
 
+ioio
 
+As a final observation on US campaigns the success average goal was close to pledge amount as or IQR statistics number showed, however on the failed campaigns the discrepancies are uncommonly high.
+Highly recommend to consider check the Goal and Pledge for failed campaigns once we had found considerable amount differences.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Parent%20Category%20Outcomes.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
-
-Diving in a little further we can determine that between US and Great Britain's the Theater category is the most successful with an amount of  73% of success on US and 58% success on GB compared to the failed and canceled categorys.
-
-
-![Launch%20success%20Theater.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Launch%20success%20Theater.png)
--
-![Launch%20Success%20Monthly.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Launch%20Success%20Monthly.png)
-
-
-For the Great Britain's theater market, especially musicals. After close detail analyses of the amount estimated budget of £4,000, we recommend request a lower amount for budget possibly from £2000.00 to £3000.00, considering half of the campaign goals are less than £2,000.
-Also, in the Great Britain’s the category Theater, as in US, is the most successful. Indicating that the Theater market is a good investment choice.
 
 ### Observation
 On US campaigns the success average goal was close to pledge amount as or IQR statistics number showed, however on the failed campaigns the discrepancies are uncommonly high.
