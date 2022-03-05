@@ -41,7 +41,7 @@ On the chart below we can identify the successful campaigns as the highest on th
 
 On this perspective of data we have a different approach of Outcomes based on goals and analyzing the expectations for funding goals required, we can recognize that the rate of success is higher for campaigns with the funding goal less than $5,000. The success ranges from campaigns with goal of less than a $1,000 up to $4,999 represent 76% to 73% comparing to campaigns with higher funding goals that didn’t achieve nearly as high of success.
 
-![Outcomes_vs_Goals.png.png (https://github.com/abramscris/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png.png)
+![Outcomes_vs_Goals.png.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png.png)
 
 
 
