@@ -35,13 +35,13 @@ Initiating the Kickstarter the perception over the Theater category has the bett
 
 On the chart below we can identify the successful campaigns as the highest on the months prior documented, also we can see the discrepancies between failed and canceled. We can assume that seasons of the year are a determinant factor on success rates, once seems on the months of May/June/July between Spring and Summer the numbers are 65% average successful when compared to total campaigns with only 33% Failed campaigns. On the months of October/November/December between Fall and Winter we identify 42% Failed rates with 56% success on a much lower amount of success campaigns.
 
-![Theater_Outcomes_vs_Launch.png.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png.png)
+![Theater_Outcomes_vs_Launch.png.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 # Conclusion based on Outcomes based on Goals
 
 On this perspective of data we have a different approach of Outcomes based on goals and analyzing the expectations for funding goals required, we can recognize that the rate of success is higher for campaigns with the funding goal less than $5,000. The success ranges from campaigns with goal of less than a $1,000 up to $4,999 represent 76% to 73% comparing to campaigns with higher funding goals that didn’t achieve nearly as high of success.
 
-![Outcomes_vs_Goals.png.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png.png)
+![Outcomes_vs_Goals.png.png](https://github.com/abramscris/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 
